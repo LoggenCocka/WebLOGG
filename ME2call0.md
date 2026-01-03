@@ -1,3 +1,14 @@
+.-LoGG https://github.com/ethersex/ethersex
+pick up callID 
+merge gray / cloud
+
+propagate / tree(3)
+
+recieve - propagation / cloud gray  -> | 0
+
+- callID group 0 -> (gray) back
+- < navigate cloud 
+
 # DAPNET Web
 The default DAPNET Web-frontend.
 Written in the [Vue.js](https://github.com/vuejs/vue) framework and built using [webpack](https://github.com/webpack/webpack).
